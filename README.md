@@ -1,16 +1,40 @@
-## Hi there 👋
+```markdown
+# Hi there 👋, I'm Gaurav Thombre
 
-<!--
-**gauravthombre/GauravThombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 Computer Engineering student specializing in **Artificial Intelligence**  
 
-Here are some ideas to get you started:
+📘 Currently learning **Prompt Engineering ,Machine Learning & Data Science**  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** C, C++, Python, Java, JavaScript, PHP  
+- **Web:** HTML, CSS, Bootstrap, React.js  
+- **Databases:** MySQL  
+- **Other:** Git, GitHub, Linux, Data Structures, AI Algorithms  
+
+---
+
+## 📌 Projects  
+- 🎓 **Academia Hub Online Admission Process**  
+  *(HTML, CSS, Bootstrap, PHP, JS, MySQL)* – End-to-end online admission system with student registration, fee payment, and admin verification.  
+
+- 📊 **Data Science & Statistics Exercises**  
+  Hands-on with correlation analysis, ANOVA, Chi-square tests, probability distributions.  
+
+- 🤖 **AI Problem Solvers**  
+  Implemented algorithms like BFS, DFS, A*, Minimax, and Alpha-Beta pruning.  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 [Portfolio / Website](#) *(coming soon)*  
+- 💼 https://www.linkedin.com/in/thombregaurav/ 
+- 📧 Email: tpatil6562@gmail.com 
+
+---
+
+⭐️ From [GauravThombre](https://github.com/GauravThombre)  
+```
