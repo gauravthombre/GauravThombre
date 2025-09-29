@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/AI-%20&%20DS-blue?style=for-the-badge&logo=python)  
 ![GitHub followers](https://img.shields.io/github/followers/gauravthombre?style=social)  
-![LinkedIn](https://img.shields.io/https://www.linkedin.com/in/thombregaurav/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io//LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//https://www.linkedin.com/in/thombregaurav/badge)
 
 ## 🧑 About Me
 I'm **Gaurav Thombre**, a passionate coder and AI enthusiast.  
