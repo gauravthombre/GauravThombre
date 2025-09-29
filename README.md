@@ -1,40 +1,70 @@
 ```markdown
-# Hi there 👋, I'm Gaurav Thombre
+# Hi 👋, I'm Gaurav Thombre
 
-## 🚀 About Me  
-🎓 Computer Engineering student specializing in **Artificial Intelligence**  
-
-📘 Currently learning **Prompt Engineering ,Machine Learning & Data Science**  
-  
+AI & Data Science Enthusiast | Computer Engineering Student  
+Passionate about AI, Security, Cloud & Full-Stack Development  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C, C++, Python, Java, JavaScript, PHP  
-- **Web:** HTML, CSS, Bootstrap, React.js  
-- **Databases:** MySQL  
-- **Other:** Git, GitHub, Linux, Data Structures, AI Algorithms  
+## 💡 About Me
+
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (AIDS)**  
+- 🎓 Completed **Diploma in Computer Science & Engineering (CSE)**  
+- 🔐 Exploring **Cybersecurity, Cloud Computing & Data Science**  
+- 💻 Skilled in programming, web development, and AI algorithms  
+- 🚀 Always learning new things, contributing to open source, and solving real-world problems  
 
 ---
 
-## 📌 Projects  
-- 🎓 **Academia Hub Online Admission Process**  
-  *(HTML, CSS, Bootstrap, PHP, JS, MySQL)* – End-to-end online admission system with student registration, fee payment, and admin verification.  
+## 🛠 Tech Stack & Tools
 
-- 📊 **Data Science & Statistics Exercises**  
-  Hands-on with correlation analysis, ANOVA, Chi-square tests, probability distributions.  
+**Languages:**  
+Python • C • C++ • Java • JavaScript • PHP  
 
-- 🤖 **AI Problem Solvers**  
-  Implemented algorithms like BFS, DFS, A*, Minimax, and Alpha-Beta pruning.  
+**Frontend / Web:**  
+HTML • CSS • Bootstrap • React.js  
 
----
+**Databases / Backend:**  
+MySQL  
 
-## 📫 Connect with Me  
-- 🌐 [Portfolio / Website](#) *(coming soon)*  
-- 💼 https://www.linkedin.com/in/thombregaurav/ 
-- 📧 Email: tpatil6562@gmail.com 
+**Other Tools & Environments:**  
+Git • GitHub • Linux • VS Code  
 
 ---
 
-⭐️ From [GauravThombre](https://github.com/GauravThombre)  
+## 📂 Featured Projects
+
+- **Academia Hub – Online Admission System**  
+  Built with HTML, CSS, Bootstrap, PHP, JavaScript, MySQL.  
+  Features: registration, fee payment, document verification, admin dashboard.
+
+- **AI Search Algorithm Suite**  
+  Implemented BFS, DFS, A\*, Minimax, Alpha-Beta Pruning for practice & algorithm learning.
+
+- **Data Science & Statistical Analysis**  
+  Work on correlation, ANOVA, chi-square tests, distributions using real data sets.
+
+- **Mini Cybersecurity Projects**  
+  Hands-on with penetration testing basics, vulnerability scanning, and ethical hacking studies.
+
+---
+
+## 📊 GitHub Stats
+
+![Gaurav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravThombre&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravThombre&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravThombre&theme=tokyonight)  
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories, open issues, or drop me a message.  
 ```
