@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/AI-%20&%20DS-blue?style=for-the-badge&logo=python)  
 ![GitHub followers](https://img.shields.io/github/followers/gauravthombre?style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/https://www.linkedin.com/in/thombregaurav/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 🧑 About Me
 I'm **Gaurav Thombre**, a passionate coder and AI enthusiast.  
@@ -14,17 +14,7 @@ I'm **Gaurav Thombre**, a passionate coder and AI enthusiast.
 
 ---
 
-## 🛠 My Projects
 
-| Project Name | Description | Technologies | Status | GitHub Link |
-|--------------|------------|--------------|--------|-------------|
-| Project 1 | Short description here | Python, AI | Ongoing | [Repo](#) |
-| Project 2 | Short description here | HTML, CSS, JS | Completed | [Repo](#) |
-| Project 3 | Short description here | Python, ML | Ongoing | [Repo](#) |
-
-*(Add more projects as you complete them)*
-
----
 
 ## 🚀 Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
