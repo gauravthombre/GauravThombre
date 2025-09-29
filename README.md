@@ -1,70 +1,72 @@
-```markdown
-# Hi 👋, I'm Gaurav Thombre
+# 👋 Hi, I'm Gaurav Thombre
 
-AI & Data Science Enthusiast | Computer Engineering Student  
-Passionate about AI, Security, Cloud & Full-Stack Development  
+![Profile Banner](https://img.shields.io/badge/AI-%20&%20DS-blue?style=for-the-badge&logo=python)  
+![GitHub followers](https://img.shields.io/github/followers/gauravthombre?style=social)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
----
-
-## 💡 About Me
-
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (AIDS)**  
-- 🎓 Completed **Diploma in Computer Science & Engineering (CSE)**  
-- 🔐 Exploring **Cybersecurity, Cloud Computing & Data Science**  
-- 💻 Skilled in programming, web development, and AI algorithms  
-- 🚀 Always learning new things, contributing to open source, and solving real-world problems  
+## 🧑 About Me
+I'm **Gaurav Thombre**, a passionate coder and AI enthusiast.  
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
+- 🎓 Completed **Diploma in Computer Science & Engineering**  
+- 💻 Interested in **AI, Machine Learning, Data Science, and Web Development**  
+- 🌐 GitHub: [gauravthombre](https://github.com/gauravthombre)  
+- 🔗 LinkedIn: [thombregaurav](https://www.linkedin.com/in/thombregaurav/)
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 My Projects
 
-**Languages:**  
-Python • C • C++ • Java • JavaScript • PHP  
+| Project Name | Description | Technologies | Status | GitHub Link |
+|--------------|------------|--------------|--------|-------------|
+| Project 1 | Short description here | Python, AI | Ongoing | [Repo](#) |
+| Project 2 | Short description here | HTML, CSS, JS | Completed | [Repo](#) |
+| Project 3 | Short description here | Python, ML | Ongoing | [Repo](#) |
 
-**Frontend / Web:**  
-HTML • CSS • Bootstrap • React.js  
-
-**Databases / Backend:**  
-MySQL  
-
-**Other Tools & Environments:**  
-Git • GitHub • Linux • VS Code  
+*(Add more projects as you complete them)*
 
 ---
 
-## 📂 Featured Projects
-
-- **Academia Hub – Online Admission System**  
-  Built with HTML, CSS, Bootstrap, PHP, JavaScript, MySQL.  
-  Features: registration, fee payment, document verification, admin dashboard.
-
-- **AI Search Algorithm Suite**  
-  Implemented BFS, DFS, A\*, Minimax, Alpha-Beta Pruning for practice & algorithm learning.
-
-- **Data Science & Statistical Analysis**  
-  Work on correlation, ANOVA, chi-square tests, distributions using real data sets.
-
-- **Mini Cybersecurity Projects**  
-  Hands-on with penetration testing basics, vulnerability scanning, and ethical hacking studies.
+## 🚀 Skills & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gaurav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravThombre&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravThombre&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravThombre&theme=tokyonight)  
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravthombre&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthombre&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravthombre&theme=radical)
 
 ---
 
-## 🔗 Connect with Me
+## 📂 Recommended Folder Structure
+# 1. Online Food Ordering Website
+## Description
+Responsive food ordering platform to browse menus, place orders, and manage cart.
+## Features
+- Dynamic menu display
+- Interactive cart system
+- Mobile and desktop responsive
+## Technologies
+HTML, CSS, JavaScript
+## Demo
+[Live Demo](https://gauravthombre.github.io/online-food-ordering/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+### 2. [Tourism Static Website](https://github.com/gauravthombre/tourism-static-website)
+A fully responsive and visually appealing static website showcasing popular tourist destinations.  
+- **Technologies Used:** HTML, CSS, JavaScript  
+- **Features:** Responsive layout, interactive elements, smooth scrolling, destination highlights  
+- **Status:** Completed  
+- **Live Demo / Repo:** [View on GitHub](https://github.com/gauravthombre/tourism-static-website)
 
----
 
-⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories, open issues, or drop me a message.  
-```
+
+## 📫 Contact Me
+- ✉ Email: [your-email@example.com](mailto:tpatil6562@gmail.com)  
+- 🔗 LinkedIn: [thombregaurav](https://www.linkedin.com/in/thombregaurav/)  
+- 🌐 GitHub: [gauravthombre](https://github.com/gauravthombre)
