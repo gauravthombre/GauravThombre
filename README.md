@@ -18,16 +18,22 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name        : Gaurav Thombre
-education   : B.Tech — Artificial Intelligence & Data Science
-              MIT Chhatrapati Sambhajinagar (G.S. Mandal's Maharashtra Institute of Technology)
-background  : Diploma in Computer Science & Engineering
-interests   : AI · Machine Learning · Data Science · Full-Stack Web Development
-currently   : Building AI-powered apps & preparing for campus placements
-github      : github.com/gauravthombre
-linkedin    : linkedin.com/in/thombregaurav
-```
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🎓 **B.Tech in AI & Data Science**
+  MIT Chhatrapati Sambhajinagar *(G.S. Mandal's MIT)*
+
+- 📜 Diploma in **Computer Science & Engineering**
+
+- 💡 Passionate about **AI, ML, Data Science & Full-Stack Development**
+
+- 🔭 Currently **building AI-powered apps** & preparing for campus placements
+
+- 🌐 **GitHub:** [gauravthombre](https://github.com/gauravthombre)
+
+- 💼 **LinkedIn:** [thombregaurav](https://www.linkedin.com/in/thombregaurav/)
+
+<br clear="right"/>
 
 ---
 
@@ -62,6 +68,7 @@ linkedin    : linkedin.com/in/thombregaurav
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,7 +76,7 @@ linkedin    : linkedin.com/in/thombregaurav
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gauravthombre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=gauravthombre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthombre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
@@ -77,17 +84,14 @@ linkedin    : linkedin.com/in/thombregaurav
   </tr>
 </table>
 
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravthombre&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
-
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravthombre&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -95,17 +99,13 @@ linkedin    : linkedin.com/in/thombregaurav
 
 <div align="center">
 
-<a href="https://github.com/gauravthombre/online-food-ordering">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravthombre&repo=online-food-ordering&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/gauravthombre/tourism-static-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravthombre&repo=tourism-static-website&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/gauravthombre/Gaurav-Projects-Lab-FSD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravthombre&repo=Gaurav-Projects-Lab-FSD&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+| 🍔 Online Food Ordering | 🌍 Tourism Static Website | 💻 Full-Stack Projects Lab |
+|:---:|:---:|:---:|
+| Responsive food ordering platform | Visually rich tourism showcase site | Full-stack dev course project collection |
+| `HTML` `CSS` `JavaScript` | `HTML` `CSS` `JavaScript` | `HTML` `CSS` `JS` `React` `Node` |
+| [![Live Demo](https://img.shields.io/badge/Live%20Demo-4CAF50?style=flat-square&logo=github&logoColor=white)](https://gauravthombre.github.io/online-food-ordering/) | [![View Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthombre/tourism-static-website) | [![View Repo](https://img.shields.io/badge/View%20Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravthombre/Gaurav-Projects-Lab-FSD) |
+
+> 💡 **Note:** Once your repos are public, replace this table with GitHub pin cards for a richer look.
 
 </div>
 
